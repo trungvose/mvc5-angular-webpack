@@ -22,7 +22,7 @@ If everything works fine, you will see the screenshot below.
 ![module 1](https://github.com/trungk18/trungk18.github.io/raw/master/img/mvc5angular/screen-1.png)
 ![module 2](https://github.com/trungk18/trungk18.github.io/raw/master/img/mvc5angular/screen-2.png)
 
-For step by step tutorial, please visit  http://trungk18.github.io/
+For step by step tutorial, please visit  http://trungk18.github.io/typescript/angular/webpack/mvc/asp.net-mvc-5-angular-webpack/
 
 ## Reference
 
