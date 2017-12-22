@@ -1,0 +1,49 @@
+{
+  "name": "mvc5-angular-webpack",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "dev": "webpack-dev-server --https --open",
+    "watch": "webpack --config webpack.config.js --watch",
+    "build": "webpack --config webpack.config.js",
+    "build:prod": "webpack --config webpack.config.js --env.MODE=prod",
+    "lint": "tslint modules/**/*.ts"
+  },
+  "dependencies": {
+    "@angular/animations": "^4.0.3",
+    "@angular/common": "^4.0.3",
+    "@angular/compiler": "^4.0.3",
+    "@angular/compiler-cli": "^4.0.3",
+    "@angular/core": "^4.0.3",
+    "@angular/forms": "^4.0.3",
+    "@angular/http": "^4.0.3",
+    "@angular/platform-browser": "^4.0.3",
+    "@angular/platform-browser-dynamic": "^4.0.3",
+    "@angular/platform-server": "^4.0.3",
+    "@angular/router": "^4.0.3",
+    "@types/angular": "^1.6.39",
+    "@types/node": "^7.0.12",
+    "angular-in-memory-web-api": "^0.5.2",
+    "angular2-busy": "^2.0.4",
+    "angular2-template-loader": "^0.4.0",
+    "awesome-typescript-loader": "^3.2.1",
+    "core-js": "^2.4.1",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.15.0",
+    "raw-loader": "^0.5.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.1",
+    "systemjs": "0.19.39",
+    "ts-loader": "^1.2.2",
+    "typescript": "^2.1.5",
+    "uglifyjs-webpack-plugin": "^1.1.3",
+    "webpack": "2.7.0",
+    "webpack-dev-server": "^1.16.2",
+    "zone.js": "^0.8.4"
+  },
+  "devDependencies": {
+    "tslint": "^5.0.0",
+    "codelyzer": "^3.1.2"
+  }
+}
