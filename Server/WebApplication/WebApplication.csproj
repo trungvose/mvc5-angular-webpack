@@ -184,6 +184,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Module2.cshtml" />
     <Content Include="Views\Home\Module1.cshtml" />
+    <Content Include="Views\Home\loader.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

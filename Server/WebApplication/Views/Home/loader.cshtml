@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Module 1";
+}
+
+@*@Scripts.Render("~/bundles/module1")*@
+
+<% for (var chunk in htmlWebpackPlugin.files.chunks) { %>
+    <script src="<%= htmlWebpackPlugin.files.chunks[chunk].entry %>"></script>
+<% } %>
+
+<my-angular-app>Loading....</my-angular-app>
+

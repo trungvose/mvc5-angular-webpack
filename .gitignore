@@ -140,3 +140,5 @@ Client/**/*.js
 /Server/.vs/Web-Core/v15/Server/sqlite3/storage.ide-shm
 /Server/.vs/Web-Core/v15/Server/sqlite3/storage.ide-wal
 /Server/.vs/config/applicationhost.config
+/Server/WebApplication/Scripts/ng2/**/*.js
+/Server/WebApplication/Scripts/ng2/**/*.js.map
