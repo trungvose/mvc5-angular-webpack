@@ -134,7 +134,7 @@ _[Ss]cripts
 *.dot[Cc]over
 
 #Client
-Client/**/*.js
+Client/modules/*.js
 /Server/.vs/Web-Core/v15/Server/sqlite3/db.lock
 /Server/.vs/Web-Core/v15/Server/sqlite3/storage.ide
 /Server/.vs/Web-Core/v15/Server/sqlite3/storage.ide-shm
