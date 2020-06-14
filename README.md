@@ -19,10 +19,10 @@ Verify that you are running node **v6.x.x** or higher and npm **3.x.x** or highe
 
 If everything works fine, you will see the screenshot below.
 
-![module 1](https://github.com/trungk18/trungk18.github.io/raw/master/img/mvc5angular/screen-1.png)
-![module 2](https://github.com/trungk18/trungk18.github.io/raw/master/img/mvc5angular/screen-2.png)
+![module 1](https://gitlab.com/trungk181/blog/-/raw/master/img/mvc5angular/screen-1.png)
+![module 2](https://gitlab.com/trungk181/blog/-/raw/master/img/mvc5angular/screen-2.png)
 
-For step by step tutorial, please visit http://trungk18.github.io/tutorial/asp.net-mvc-5-angular-webpack/
+For step by step tutorial, please visit https://trungk18.com/tutorial/asp.net-mvc-5-angular-webpack/
 
 ## Reference
 
